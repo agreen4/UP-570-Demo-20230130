@@ -4,11 +4,25 @@
     "href": "Demo.html",
     "title": "UP 570 Demo",
     "section": "",
-    "text": "This is a demonstration file where we can explore issues that you’re having trouble with in class. We’ll keep adding throughout our session today. Does this work?"
+    "text": "This is a demonstration file where we can explore issues that you’re having trouble with in class. We’ll keep adding throughout our session today.\nDoes this work?"
   },
   {
     "objectID": "Demo.html#making-footnotes",
     "href": "Demo.html#making-footnotes",
+    "title": "UP 570 Demo",
+    "section": "Making Footnotes",
+    "text": "Making Footnotes\nWe can make footnotes in line with text1\nWhat happens if we add a second footnote?2\nWhat happens if we want to write a longnote?3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "UP 570 Demo",
+    "section": "",
+    "text": "This is a demonstration file where we can explore issues that you’re having trouble with in class. We’ll keep adding throughout our session today.\nDoes this work?"
+  },
+  {
+    "objectID": "index.html#making-footnotes",
+    "href": "index.html#making-footnotes",
     "title": "UP 570 Demo",
     "section": "Making Footnotes",
     "text": "Making Footnotes\nWe can make footnotes in line with text1\nWhat happens if we add a second footnote?2\nWhat happens if we want to write a longnote?3"
