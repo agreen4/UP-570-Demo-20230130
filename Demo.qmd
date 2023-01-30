@@ -1,0 +1,25 @@
+---
+title: "UP 570 Demo"
+author: "Andrew Greenlee"
+date: "January 30, 2023"
+format: html
+editor: visual
+---
+
+## Description
+
+This is a demonstration file where we can explore issues that you're having trouble with in class.
+
+## Making Footnotes
+
+We can make footnotes in line with text[^1]
+
+What happens if we add a second footnote?[^2]
+
+What happens if we want to write a longnote?[^longnote]
+
+[^1]: Footnote text goes here.
+[^2]: And here is that second footnote text.
+[^longnote]: And here is some longer text that we might want to include as a note.
+
+    Note that if we indent, it will remain part of the longnote.
